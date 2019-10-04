@@ -1,0 +1,102 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-10-04T17:04:19.534Z",
+    "end": "2019-10-04T17:04:19.551Z",
+    "duration": 17
+  },
+  "tests": [
+    {
+      "title": "has a folder named my-repository",
+      "fullTitle": "this lab has a folder named my-repository",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a valid git repository initialized for the my-repository folder",
+      "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a README.md file in the my-repository folder",
+      "fullTitle": "this lab has a README.md file in the my-repository folder",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has README.md as a tracked file",
+      "fullTitle": "the local repository has README.md as a tracked file",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has at least one commit",
+      "fullTitle": "the local repository has at least one commit",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has been pushed up to the remote repository",
+      "fullTitle": "the local repository has been pushed up to the remote repository",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a folder named my-repository",
+      "fullTitle": "this lab has a folder named my-repository",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a valid git repository initialized for the my-repository folder",
+      "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a README.md file in the my-repository folder",
+      "fullTitle": "this lab has a README.md file in the my-repository folder",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has README.md as a tracked file",
+      "fullTitle": "the local repository has README.md as a tracked file",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has at least one commit",
+      "fullTitle": "the local repository has at least one commit",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has been pushed up to the remote repository",
+      "fullTitle": "the local repository has been pushed up to the remote repository",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
